@@ -1,12 +1,12 @@
 
 body{
-    font-family: Arial, sans-serif;
+    font-family: cursive;
     /* display: flex; */
     /* justify-content: center; */
     /* align-items: center; */
     height: 100vh;
     /* margin: 100px; */
-    background-color: #f4f4f9;
+    background-color: #d0d0f5;
     line-height: 30px;
     margin: 0%;
 }
@@ -32,6 +32,9 @@ body{
     display: flex;
     
 }
+.second h2{
+    padding-left: 700px;
+}
 .bigcon img{
     padding-top: 80px;
     height: 480px;
@@ -41,6 +44,7 @@ body{
 }
 
 h1 {
+
     color: #333;
 }
 
@@ -85,11 +89,14 @@ button:hover {
  .intro{
    width: 50%;
    padding-right: 100px;
+   padding-left: 100px;
 
  }
+
  .tool{
     display: flex;
     gap: 40px; 
+    padding-right: 100px;
  }
  .navigation{
     display: flex;
@@ -103,6 +110,7 @@ button:hover {
     font-size: 20px;
  }
  .toolmg{
+    padding-left: 100px;
     padding-top: 50px;
  }
  footer{
@@ -114,4 +122,6 @@ button:hover {
     line-height: 50px;
     padding-top: 20px;
  }
+
+
  
